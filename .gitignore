@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#Waste folders
+old/
+submitted/
+verify/
